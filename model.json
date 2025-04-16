@@ -1,52 +1,36 @@
 {
   "model": [
     {
-      "url": "https://storage.googleapis.com/kagglesdsdata/models/11848/14303/gemma-2b-it-gpu-int4.bin?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcp-kaggle-com%40kaggle-161607.iam.gserviceaccount.com%2F20250408%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250408T015825Z&X-Goog-Expires=259200&X-Goog-SignedHeaders=host&X-Goog-Signature=a4edbfb5124d8d6df6e0969b42959c45d6ff55ab761eb4986c6081eb98c4b85eb3870e70b2c1cf52e2b8806e12668f0cf6841f4c15f5b8ffaebee4076162351498a38d06799ab6119a48fc8af91a71c5def52f88b56859cfd5e5bc38cd312df90a7bf2b54e40a01f655824c5b922d8b4cdb5be9fc64ac478597e5691d20da83f6599c6412009f4ed8572852f62cd9ea497a59c8692c9d242d55a20e5113032b7fdc6cf09602b8c647bee77c17614ef9e2fe2f07aba75c8b5618a7de3930fb0dd0f54628753240c54ca4b59a57499cac5e9c2e0703b76e5f9756d2bd6892a46d473420ae28366ac1b75ddcc0bf45fb060ab67e206abdddde03cccfa0defd6acb6",
-      "filename": "gemma-2b-it-gpu-int4.bin",
-      "displayName": "Gemma 2B IT (GPU)",
-      "fileSize": "1.35 GB",
-      "licenseUrl": "https://www.kaggle.com/models/google/gemma/license/consent",
-      "needsAuth": false
-    },
-    {
-      "url": "https://storage.googleapis.com/kagglesdsdata/models/11850/14305/gemma-2b-it-cpu-int4.bin?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcp-kaggle-com%40kaggle-161607.iam.gserviceaccount.com%2F20250408%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250408T022817Z&X-Goog-Expires=259200&X-Goog-SignedHeaders=host&X-Goog-Signature=81d2ebf2bade42f45ea332d996674f69eb2c5fd9701eacfd05ee966be2c7575e3d668059e9a55546c5f5ef601e6445adc4116558a73b28eb2c01c9cfdd8342d6c8b15e8d4fdbc08ce0af76f9d2c38a1aeae6035c32f5b55ecc6896399680387681fc207a9ad0314a2ae52ec6f21f30cfd29c568ead7a52756af9459ccb9ea48468b2cd636770a4eab6fe04f6e2eb49c5103d2aab78efee32dff3a38a531fa9d060df46a931fcd664386a460eaeb8b4072d316d6990764d980ade668b46dc8a1e538a1a24fe3da9be097bfd812426bc6ffdc24345f64c561f91ccaa73697276c9f93fd7a391c801fb3064c8780bdf944fde60f89b910b8a3b56858244774c329f",
+      "url": "https://huggingface.co/litert-community/Phi-4-mini-instruct/resolve/main/phi4_q8_ekv1280.task",
       "filename": "gemma-2b-it-cpu-int4.bin",
       "displayName": "Gemma 2B IT (CPU)",
-      "fileSize": "1.35 GB",
-      "licenseUrl": "https://www.kaggle.com/models/google/gemma/license/consent",
+      "fileSize": "3.7 GB",
+      "licenseUrl": "https://huggingface.co/litert-community/Phi-4-mini-instruct",
       "needsAuth": false
     },
     {
-      "url": "https://storage.googleapis.com/kagglesdsdata/models/21998/26133/gemma-1.1-2b-it-cpu-int4.bin?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcp-kaggle-com%40kaggle-161607.iam.gserviceaccount.com%2F20250408%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250408T020439Z&X-Goog-Expires=259200&X-Goog-SignedHeaders=host&X-Goog-Signature=c01b7bf8aa38d61fb7dc57f30a6a7b67baeda239b5086b74ac0e6a1d6846711a341be7c4762e63ded1c9609278e66c1a9a63954768459be771050afc625a176279587af29fd3d928a155fadc76a5d3868154066d02028c0c02cb7220485ae333c4641808191329ebe2435b379af8b4e2c92baee78ec45b268611e926b05846bfa7bb46d68d400f5ab7f9ed80ee6378d5df58dba48d574dcfdd06d5a4d2592ad2c497386652aa5d2968edd6d7dfcab02b293f357371ac127876bf6333bc874e66a5aee1580314a8afdb9dc09e69b64a08ce5168720c5156045c00b767903d23bc1e563c5c6b67e426a5f26e11900116a1cd45bc7e5eea93b1cb3fe06855829134",
-      "filename": "gemma-1.1-2b-it-cpu-int4.bin",
-      "displayName": "Gemma1.1 2B IT (CPU)",
-      "fileSize": "1.35 GB",
-      "licenseUrl": "https://www.kaggle.com/models/google/gemma/license/consent",
-      "needsAuth": false
-    },
-    {
-      "url": "https://storage.googleapis.com/kagglesdsdata/models/21999/26135/gemma-1.1-2b-it-gpu-int4.bin?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcp-kaggle-com%40kaggle-161607.iam.gserviceaccount.com%2F20250408%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250408T022456Z&X-Goog-Expires=259200&X-Goog-SignedHeaders=host&X-Goog-Signature=27a8f179fbd15cab1187444dadf20e853a7768f6fd6fae2b87818e79b8c664d34d4463efb953bc5ded06400f2a9460a49893c62620e80ecfb810ca4acec74352ddcaca0c7d3c78ce1f5b9144083c45d10b3caf5d4937955d7a051dadc6dc209d752910f069865ec6e9b70f65cf6fedde8aef2d0ded8e22518124f7c385e48c0633ad905a1afc56db4f245571042dd9ae261fb9178838e5e3f5f730f23f6e190e2912db460b3be97e682dbc1acf3e20be10278b6065c04bd3773e0d6e15ffd7d0d6741a06496388168963ddf5e89ea5fde9bd5e4085a137165d04c1869e840673d6ab19c5cec78bb6b81395668569ded8dea3af954469513082f89ab9f8d16372",
+      "url": "https://huggingface.co/litert-community/Gemma2-2B-IT/resolve/main/gemma2_q8_multi-prefill-seq_ekv1280.task",
       "filename": "gemma-2b-it-gpu-int8.bin",
       "displayName": "Gemma1.1 2B IT (GPU)",
-      "fileSize": "1.35 GB",
-      "licenseUrl": "https://www.kaggle.com/models/google/gemma/license/consent",
+      "fileSize": "2.5 GB",
+      "licenseUrl": "https://huggingface.co/litert-community/Gemma2-2B-IT",
+      "needsAuth": true
+    },
+    {
+      "url": "https://huggingface.co/litert-community/DeepSeek-R1-Distill-Qwen-1.5B/resolve/main/deepseek_q8_ekv1280.task",
+      "filename": "deepseek_q8_ekv1280_cpu.task",
+      "displayName": "DeepSeek Q8 EKV1280 (CPU)",
+      "fileSize": "1.7 GB",
+      "licenseUrl": "https://huggingface.co/litert-community/DeepSeek-R1-Distill-Qwen-1.5B",
       "needsAuth": false
     },
     {
-      "url": "https://storage.googleapis.com/kagglesdsdata/models/38119/45460/gemma-1.1-7b-it-gpu-int8.bin?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcp-kaggle-com%40kaggle-161607.iam.gserviceaccount.com%2F20250408%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250408T021714Z&X-Goog-Expires=259200&X-Goog-SignedHeaders=host&X-Goog-Signature=75dd20f14141b3f10dc8bd6873df7cd91c27862f2e95a07983e0d2038e9aa96cc658e21503e58c0b696af6945218c8da5a5f3014a05c02b14b7fc1ab00ff80b82687da2ae476fea3497be0ec5d562c49f62bee613e749ddbc9a8fc469dbde9bb72b2add88151e253d9acb9deb26fe2c744289c5abfb7318a3d22ded0bd38fec2387ae6089850c82213d3efab68572b118ad8f79e0e156c814d76dd446741dd186c7bf46e5e93a9f5097355236f63b55f247efb11e0e577589873e788688239504f368649a683661858709ad7301915c8414c2ff974b3e892f4ff3e500bffa19767e48b2bb8cb5f0f7c6444fdd7b9b7620fb69f2dd55763a539e52fdeb048f581",
-      "filename": "gemma-1.1-7b-it-gpu-int8.bin",
-      "displayName": "Gemma1.1 7B IT (GPU)",
-      "fileSize": "8.55 GB",
-      "licenseUrl": "https://www.kaggle.com/models/google/gemma/license/consent",
-      "needsAuth": false
-    },
-    {
-      "url": "https://storage.googleapis.com/kagglesdsdata/models/242281/282755/gemma3-1B-it-int4.task?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=gcp-kaggle-com%40kaggle-161607.iam.gserviceaccount.com%2F20250410%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20250410T094203Z&X-Goog-Expires=259200&X-Goog-SignedHeaders=host&X-Goog-Signature=0b35553de6041faa878cdcdb0c59615c6174eb75ac10e03a3c62fde8797234cc8bf37a58561e701c97179e8b99794d1e89de2ef86b4f4c0d0b0ca4399f12ad5214f9fa698c36c0c5f2e4a651af2faf70998ba3f8890821872d371de7609c962f4a793be162f9f481d1d5c45020fbbaefbf354f2ef46f7e89f69e902a0d3e21597f78fbff9a396b4ac492bb9befd78dfd85b52638652d1575c6c699f566eb1c66e94c5aa0bea642881bd43fd92906ea0e0a2a426053f9c8e04c7a5405c700fec5f6c300945cfb01dd8b60ec207057c1c4cc203e7d360adae1aad4998a7bd3d6115d3d15e5179a51d095929d268a59f8b186aad95f5af90d3b35730ef6f5874c2f",
+      "url": "https://huggingface.co/litert-community/Gemma3-1B-IT/resolve/main/gemma3-1b-it-int4.task",
       "filename": "gemma3-1b-it-int4.task",
       "displayName": "Gemma3 1B IT (GPU)",
       "fileSize": "555 MB",
-      "licenseUrl": "https://www.kaggle.com/models/google/gemma/license/consent",
-      "needsAuth": false
+      "licenseUrl": "https://huggingface.co/litert-community/Gemma3-1B-IT",
+      "needsAuth": true
     }
   ]
 }
