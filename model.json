@@ -2,8 +2,8 @@
   "model": [
     {
       "url": "https://huggingface.co/litert-community/Phi-4-mini-instruct/resolve/main/phi4_q8_ekv1280.task",
-      "filename": "gemma-2b-it-cpu-int4.bin",
-      "displayName": "Gemma 2B IT (CPU)",
+      "filename": "phi4_q8_ekv1280-gpu.task",
+      "displayName": "Phi4 Q8 EKV1280 (GPU)",
       "fileSize": "3.7 GB",
       "licenseUrl": "https://huggingface.co/litert-community/Phi-4-mini-instruct",
       "needsAuth": false
@@ -11,7 +11,7 @@
     {
       "url": "https://huggingface.co/litert-community/Gemma2-2B-IT/resolve/main/gemma2_q8_multi-prefill-seq_ekv1280.task",
       "filename": "gemma-2b-it-gpu-int8.bin",
-      "displayName": "Gemma1.1 2B IT (GPU)",
+      "displayName": "Gemma 2B IT (GPU)",
       "fileSize": "2.5 GB",
       "licenseUrl": "https://huggingface.co/litert-community/Gemma2-2B-IT",
       "needsAuth": true
