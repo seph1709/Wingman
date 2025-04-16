@@ -2,8 +2,8 @@
   "model": [
     {
       "url": "https://huggingface.co/litert-community/Phi-4-mini-instruct/resolve/main/phi4_q8_ekv1280.task",
-      "filename": "phi4_q8_ekv1280-gpu.task",
-      "displayName": "Phi4 Q8 EKV1280 (GPU)",
+      "filename": "phi4_q8_ekv1280-cpu.task",
+      "displayName": "Phi4 Q8 EKV1280 (CPU)",
       "fileSize": "3.7 GB",
       "licenseUrl": "https://huggingface.co/litert-community/Phi-4-mini-instruct",
       "needsAuth": false
