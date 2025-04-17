@@ -10,8 +10,8 @@
     },
     {
       "url": "https://huggingface.co/litert-community/Gemma2-2B-IT/resolve/main/gemma2_q8_multi-prefill-seq_ekv1280.task",
-      "filename": "gemma-2b-it-gpu-int8.bin",
-      "displayName": "Gemma 2B IT (GPU)",
+      "filename": "gemma-2b-it-cpu-int8.task",
+      "displayName": "Gemma 2B IT (CPU)",
       "fileSize": "2.5 GB",
       "licenseUrl": "https://huggingface.co/litert-community/Gemma2-2B-IT",
       "needsAuth": true
@@ -26,7 +26,7 @@
     },
     {
       "url": "https://huggingface.co/litert-community/Gemma3-1B-IT/resolve/main/gemma3-1b-it-int4.task",
-      "filename": "gemma3-1b-it-int4.task",
+      "filename": "gemma3-1b-it-int4-gpu.task",
       "displayName": "Gemma3 1B IT (GPU)",
       "fileSize": "555 MB",
       "licenseUrl": "https://huggingface.co/litert-community/Gemma3-1B-IT",
