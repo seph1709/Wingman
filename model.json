@@ -1,19 +1,11 @@
 {
   "model": [
     {
-      "url": "https://huggingface.co/litert-community/Phi-4-mini-instruct/resolve/main/phi4_q8_ekv1280.task",
-      "filename": "phi4_q8_ekv1280-cpu.task",
-      "displayName": "Phi4 Q8 EKV1280 (CPU)",
-      "fileSize": "3.7 GB",
-      "licenseUrl": "https://huggingface.co/litert-community/Phi-4-mini-instruct",
-      "needsAuth": false
-    },
-    {
-      "url": "https://huggingface.co/litert-community/Gemma2-2B-IT/resolve/main/gemma2_q8_multi-prefill-seq_ekv1280.task",
-      "filename": "gemma-2b-it-cpu-int8.task",
-      "displayName": "Gemma 2B IT (CPU)",
-      "fileSize": "2.5 GB",
-      "licenseUrl": "https://huggingface.co/litert-community/Gemma2-2B-IT",
+      "url": "https://huggingface.co/litert-community/Gemma3-1B-IT/resolve/main/gemma3-1b-it-int4.task",
+      "filename": "gemma3-1b-it-int4-gpu.task",
+      "displayName": "Gemma3 1B IT (GPU)",
+      "fileSize": "555 MB",
+      "licenseUrl": "https://huggingface.co/litert-community/Gemma3-1B-IT",
       "needsAuth": true
     },
     {
@@ -25,11 +17,44 @@
       "needsAuth": false
     },
     {
-      "url": "https://huggingface.co/litert-community/Gemma3-1B-IT/resolve/main/gemma3-1b-it-int4.task",
-      "filename": "gemma3-1b-it-int4-gpu.task",
-      "displayName": "Gemma3 1B IT (GPU)",
-      "fileSize": "555 MB",
-      "licenseUrl": "https://huggingface.co/litert-community/Gemma3-1B-IT",
+      "url": "https://huggingface.co/google/gemma-1.1-2b-it-tflite/resolve/main/gemma-1.1-2b-it-gpu-int4.bin",
+      "filename": "gemma-1.1-2b-it-gpu-int4.bin",
+      "displayName": "Gemma 1.1 2B IT (GPU)",
+      "fileSize": "1.3 GB",
+      "licenseUrl": "https://huggingface.co/google/gemma-1.1-2b-it-tflite",
+      "needsAuth": true
+     },
+    {
+      "url": "https://huggingface.co/google/gemma-1.1-2b-it-tflite/resolve/main/gemma-1.1-2b-it-gpu-int8.bin",
+      "filename": "gemma-1.1-2b-it-gpu-int8.bin",
+      "displayName": "Gemma 1.1 2B IT INT8 (GPU)",
+      "fileSize": "2.5 GB",
+      "licenseUrl": "https://huggingface.co/google/gemma-1.1-2b-it-tflite",
+      "needsAuth": true
+     },
+    {
+      "url": "https://huggingface.co/litert-community/Phi-4-mini-instruct/resolve/main/phi4_q8_ekv1280.task",
+      "filename": "phi4_q8_ekv1280-cpu.task",
+      "displayName": "Phi4 Q8 EKV1280 (CPU)",
+      "fileSize": "3.7 GB",
+      "licenseUrl": "https://huggingface.co/litert-community/Phi-4-mini-instruct",
+      "needsAuth": false
+    },
+    {
+      "url": "https://huggingface.co/vimal-yuvabe/llama-3.2-1b-tflite/resolve/main/llama-3.2-1b-q8.task",
+      "filename": "llama-3.2-1b-q8-cpu.task",
+      "displayName": "llama3.2 1B Q8 (CPU)",
+      "fileSize": "2.1 GB",
+      "licenseUrl": "https://huggingface.co/vimal-yuvabe/llama-3.2-1b-tflite",
+      "needsAuth": false
+    },
+
+    {
+      "url": "https://huggingface.co/litert-community/Gemma2-2B-IT/resolve/main/gemma2_q8_multi-prefill-seq_ekv1280.task",
+      "filename": "gemma-2b-it-cpu-int8.task",
+      "displayName": "Gemma 2B IT (CPU)",
+      "fileSize": "2.5 GB",
+      "licenseUrl": "https://huggingface.co/litert-community/Gemma2-2B-IT",
       "needsAuth": true
     }
   ]
