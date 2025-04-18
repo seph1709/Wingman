@@ -1,16 +1,22 @@
-# flexi
+<div align="center" width="30">
+<img src="https://github.com/user-attachments/assets/5f6ce0ba-fe57-4cfd-897f-90baef1c3732" alt="Mihon logo" title="AniPlay logo" width="110"/>
+</div>
+<div align="center">
 
-A new Flutter project.
+# Wingman
+</div>
+<div align="center">
+<p>Free and open-source application that allows you to run AI language models offline on Android devices.</p>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+[![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://android.com)[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/seph1709)
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+<div align="center">
+<img src="https://github.com/user-attachments/assets/bed0c5ff-8848-444c-8e90-77527b302c51" width=180>
+<img src="https://github.com/user-attachments/assets/885a97aa-f7f5-40c7-8679-2bcedc9465f3" width=180>
+</div>
+</div>
