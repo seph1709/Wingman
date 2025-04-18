@@ -1,5 +1,5 @@
 <div align="center" width="30">
-<img src="https://github.com/user-attachments/assets/5f6ce0ba-fe57-4cfd-897f-90baef1c3732" alt="Mihon logo" title="AniPlay logo" width="110"/>
+<img src="https://github.com/user-attachments/assets/5f6ce0ba-fe57-4cfd-897f-90baef1c3732" alt="Wingman logo" title="AniPlay logo" width="110"/>
 </div>
 <div align="center">
 
