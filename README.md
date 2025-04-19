@@ -6,7 +6,7 @@
 # Wingman
 </div>
 <div align="center">
-<p>Free and open-source application that allows you to run AI language models offline on Android devices.</p>
+<p>Wingman is an android app that allows you to run AI language models without internet connection</p>
 
 
 [![forthebadge](https://forthebadge.com/images/badges/built-for-android.svg)](https://android.com)[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/seph1709)
